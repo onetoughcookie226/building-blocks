@@ -1,7 +1,12 @@
+
+
+.toybox {
+    background: darkgray;
+    height: 500px;
+}
 .canvas > h1 {
     font-weight: bold;
     color: gray;
-
 }
 
 h1 {
