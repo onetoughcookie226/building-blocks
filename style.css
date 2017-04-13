@@ -21,3 +21,12 @@ h1 {
     height: 40px;
     background-color: #452159;
 }
+
+.quartright {
+    top: 525px;
+    left: 5px;
+    height: 40px;
+    width: 40px;
+    border-radius: 0 80px 0 0;
+    background-color: #5CD465;
+}
