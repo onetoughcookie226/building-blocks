@@ -30,3 +30,14 @@ h1 {
     border-radius: 0 80px 0 0;
     background-color: #5CD465;
 }
+
+.paraleft {
+    top: 455px;
+    left: 80px;
+    width: 60px;
+    height: 40px;
+    -webkit-transform: skew(25deg);
+    -moz-transform: skew(25deg);
+    -o-transform: skew(25deg);
+    background-color: #D48317;
+}
